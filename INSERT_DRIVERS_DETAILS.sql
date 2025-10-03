@@ -1,0 +1,23 @@
+INSERT INTO Drivers (DRIVER_NO,DRIVERS_NAME,TEAM,POINTS)
+VALUES 
+(81,"Oscar Piastri","McLaren",324),
+(4, "Lando Norris","McLaren",299),
+(1, "Max Verstappen","Red Bull Racing",255),
+(63,"George Russell","Mercedes",212),
+(16, "Charles Leclerc", "Ferrari",165),
+(44,"Lewis Hamilton", "Ferrari", 121),
+(12, "Kimi Antonelli", "Mercedes", 78),
+(23, "Alexander Albon", "Williams",70),
+(6, "Isack Hajder", "Racing Bulls",39),
+(27,"Nico Hulkenberg", "Kick Sauber", 37),
+(18, "Lance Stroll", "Aston Martin",32),
+(55,"Carlos Sainz","Williams",31),
+(30, "Liam Lawson", "Racing Bulls",30),
+(14, "Fernando Alonso","Aston Martin",30),
+(31, "Esteban Ocon", "Haas", 28),
+(10, "Pierre Gasly", "Alpine", 20),
+(22, "Yuki Tsunoda", "Red Bull Racing",20),
+(5, "Gabriel Bortoleto", "Kick Sauber",18),
+(87, "Oliver Bearman", "Haas",16),
+(43, "Franko Colapinto", "Alpine",0),
+(7,"Jack Doohan", "Alpine",0)

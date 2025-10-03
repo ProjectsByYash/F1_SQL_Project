@@ -1,0 +1,8 @@
+Use F1;
+
+Create table Drivers(
+	DRIVER_NO INT PRIMARY KEY,
+    DRIVERS_NAME VARCHAR(50),
+    TEAM VARCHAR(50),
+    POINTS INT
+);
