@@ -1,0 +1,12 @@
+INSERT INTO Teams (id,Team,Points)
+VALUES
+(1,"McLaren",623),
+(2,"Mercedes",290),
+(3,"Ferrari",286),
+(4, "Red Bull Racing",272),
+(5,"Williams",101),
+(6,"Racing Bulls",72),
+(7,"Aston Martin",62),
+(8,"Kick Sauber",55),
+(9,"Haas",44),
+(10,"Alpine",20)
